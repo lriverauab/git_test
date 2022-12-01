@@ -1,3 +1,7 @@
 Pruebas clase GIT
 
+
 modificación desde local
+
+Modificado en github
+
